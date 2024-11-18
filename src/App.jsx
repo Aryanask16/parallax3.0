@@ -107,6 +107,7 @@ export default function App() {
           justifyContent: "center",
           alignItems: "center",
           zIndex: 300,
+          bottom:"-20%"
         }}
       >
        
