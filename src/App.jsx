@@ -12,7 +12,7 @@ export default function App() {
   }, []);
 
   const imageSrc = windowWidth <= 750 ? "mob3.0.png" : "nnn.png";
-  const imageSrc2 = windowWidth <= 750 ? "mob3.png" : "bg1.png";
+  const imageSrc2 = windowWidth <= 750 ? "mob3.png" : "bg2.png";
   return (
     <div className="scrollable-content">
        <Plx 
